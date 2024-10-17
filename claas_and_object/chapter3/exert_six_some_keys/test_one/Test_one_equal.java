@@ -58,7 +58,7 @@ class Person{//Object类是所有类的父类 默认Person extends Object
         return gender;
     }
 
-    public void setGender(char gender) {
+    public void setGender(char gender  ) {
         this.gender = gender;
     }
 }
