@@ -64,6 +64,8 @@ class Girl {
     private String name;
     private int age;
 
+    private double price;
+
     public String getName() {
         return name;
     }
