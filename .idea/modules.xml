@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/claas_and_object/chapter3/exert_three_final/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/claas_and_object/chapter3/exert_three_final/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exception handling/chapter_one_exception overview/Test_throwable/Test_throwable.iml" filepath="$PROJECT_DIR$/exception handling/chapter_one_exception overview/Test_throwable/Test_throwable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Thread/Thread.iml" filepath="$PROJECT_DIR$/Thread/Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/claas_and_object/chapter2/chapter2.iml" filepath="$PROJECT_DIR$/claas_and_object/chapter2/chapter2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/claas_and_object/chapter3/chapter3.iml" filepath="$PROJECT_DIR$/claas_and_object/chapter3/chapter3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exception handling/chapter_one_exception overview/chapter_one_exception overview.iml" filepath="$PROJECT_DIR$/exception handling/chapter_one_exception overview/chapter_one_exception overview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exception handling/chapter_two_projection/chapter_two_projection.iml" filepath="$PROJECT_DIR$/exception handling/chapter_two_projection/chapter_two_projection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/claas_and_object/claas_and_object.iml" filepath="$PROJECT_DIR$/claas_and_object/claas_and_object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exception handling/exception handling.iml" filepath="$PROJECT_DIR$/exception handling/exception handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/claas_and_object/chapter3/exert_nine_enmu_and_annotation/exert_annotion/exert_annotion.iml" filepath="$PROJECT_DIR$/claas_and_object/chapter3/exert_nine_enmu_and_annotation/exert_annotion/exert_annotion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/claas_and_object/chapter3/exert_eight_inner/exert_eight_inner.iml" filepath="$PROJECT_DIR$/claas_and_object/chapter3/exert_eight_inner/exert_eight_inner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/claas_and_object/chapter3/exert_nine_enmu_and_annotation/exert_enum/exert_enum.iml" filepath="$PROJECT_DIR$/claas_and_object/chapter3/exert_nine_enmu_and_annotation/exert_enum/exert_enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/claas_and_object/chapter3/exert_five_diversity/exert_five_diversity.iml" filepath="$PROJECT_DIR$/claas_and_object/chapter3/exert_five_diversity/exert_five_diversity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/claas_and_object/chapter3/exert_four_inheritance/exert_four_inheritance.iml" filepath="$PROJECT_DIR$/claas_and_object/chapter3/exert_four_inheritance/exert_four_inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/claas_and_object/chapter3/exert_nine_enmu_and_annotation/exert_nine_enmu_and_annotation.iml" filepath="$PROJECT_DIR$/claas_and_object/chapter3/exert_nine_enmu_and_annotation/exert_nine_enmu_and_annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/claas_and_object/chapter3/exert_seven_interface/exert_seven_interface.iml" filepath="$PROJECT_DIR$/claas_and_object/chapter3/exert_seven_interface/exert_seven_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/claas_and_object/chapter3/exert_six_some_keys/exert_six_some_keys.iml" filepath="$PROJECT_DIR$/claas_and_object/chapter3/exert_six_some_keys/exert_six_some_keys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/claas_and_object/chapter3/exert_three_final/exert_three_final.iml" filepath="$PROJECT_DIR$/claas_and_object/chapter3/exert_three_final/exert_three_final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/claas_and_object/chapter3/exert_two_TemplateMethod/exert_two_templateMethod.iml" filepath="$PROJECT_DIR$/claas_and_object/chapter3/exert_two_TemplateMethod/exert_two_templateMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/claas_and_object/chapter3/exert_nine_enmu_and_annotation/exert_warpped/exert_warpped.iml" filepath="$PROJECT_DIR$/claas_and_object/chapter3/exert_nine_enmu_and_annotation/exert_warpped/exert_warpped.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java_introducetion.iml" filepath="$PROJECT_DIR$/java_introducetion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/claas_and_object/projection_one/projection_one.iml" filepath="$PROJECT_DIR$/claas_and_object/projection_one/projection_one.iml" />
+    </modules>
+  </component>
+</project>
