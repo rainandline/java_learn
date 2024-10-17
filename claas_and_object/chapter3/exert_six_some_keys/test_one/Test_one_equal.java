@@ -61,6 +61,10 @@ class Person{//Object类是所有类的父类 默认Person extends Object
     public void setGender(char gender  ) {
         this.gender = gender;
     }
+
+    public void test(char gender  ) {
+        this.gender = gender;
+    }
 }
 
 //equals方法
