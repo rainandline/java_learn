@@ -4,6 +4,8 @@ public class this_key_test {
         Boy boy1 = new Boy("杰克", 24);
         Girl girl1 = new Girl("朱丽叶", 20);
 
+
+
         girl1.marry(boy1);
         //我想要嫁给杰克
         //我要娶朱丽叶
